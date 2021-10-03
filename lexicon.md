@@ -3,7 +3,7 @@
 ### Business logic (or domain logic):
 - The part of a computer program that contains the information that defines or constrains how the business operates.
 - Operational policies (custom rules) that handle the exchange of information between a database and user interface.
-- **They implement business rules**.
+- **It implements business rules**.
 
 ### Business rule:
 - Describe the operations, definitions and constraints that apply to an organization. They resolve to true or false.
