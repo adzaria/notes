@@ -10,3 +10,5 @@
 
 ### Job:
 - A unit of work or **unit of execution** (that performs said work). A component of a job is called a **task** or a **step**.
+- A job is usually said to be run in batch (rather than interactive) mode.
+- A unit of work or set of instructions given to an OS to execute.
