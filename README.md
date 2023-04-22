@@ -1,3 +1,11 @@
+
+<p style="text-align: left">
+    <img alt="Python" src="https://img.shields.io/badge/Python-30-grey" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-3-grey" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-7-grey" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-1-grey" />
+</p>
+
 # Notes and training exercices
 
 ## Training problems
