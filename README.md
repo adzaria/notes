@@ -1,8 +1,3 @@
-<p style="text-align: left">
-    <img alt="Python" src="https://img.shields.io/badge/notes-grey" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/exercices-grey" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/bookshelf-grey" />
-</p>
 
 # Knowledge base
 
