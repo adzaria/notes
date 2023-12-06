@@ -6,7 +6,7 @@
 
 # Knowledge base
 
-*This repository serves as a personal archive, encompassing my personal notes, training exercises, and a curated selection of books, websites, and articles.*
+*This repository serves as a personal archive, encompassing personal notes, training exercises, and a curated selection of books, websites, and articles.*
 
 ## Bookshelf
 
