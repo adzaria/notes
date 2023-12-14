@@ -1,12 +1,7 @@
-<p style="text-align: left">
-    <img alt="Python" src="https://img.shields.io/badge/notes-grey" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/exercices-grey" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/bookshelf-grey" />
-</p>
 
 # Knowledge base
 
-***This repository serves as a personal archive, encompassing my personal notes, training exercises, and a curated selection of books, websites, and articles.***
+*This repository serves as a personal archive, encompassing personal notes, training exercises, and a curated selection of books, websites, and articles.*
 
 ## Bookshelf
 
@@ -14,7 +9,7 @@ Access my bookshelf here: [link](bookshelf/BOOKSHELF.md)
 
 ## Training exercises
 
-***Training exercices can be found in the "training" folder.***
+*Training exercices can be found in the "training" folder.*
 
 ### Training exercises from platforms
 

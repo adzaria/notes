@@ -2,7 +2,7 @@
 
 # Bookshelf
 
-***Bellow is a collection of books, articles, websites and videos. This list is only depicting what I would blindly recommend.***
+*Bellow is a collection of books, articles, websites and videos. This list is only depicting what I would blindly recommend.*
 
 ## Books
 
@@ -40,7 +40,7 @@
 
 - [Hexagonal architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
 - [Hexagonal architecture in Golang](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3)
-- [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) ***("deprecated" flow)***
+- [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) *("deprecated" flow)*
 - [A complete guide to Flexbox by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Blogs
