@@ -39,8 +39,25 @@
 ## Articles
 
 - [Hexagonal architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
+- [Hexagonal architecture in Golang](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3)
 - [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) ***("deprecated" flow)***
 - [A complete guide to Flexbox by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## Blogs
+
+### Companies technical blogs
+
+[Stripe](https://stripe.com/blog/engineering), 
+[Netflix](https://netflixtechblog.com/), 
+[Airbnb](https://medium.com/airbnb-engineering),
+[Uber](https://eng.uber.com/),
+[Dropbox](https://dropbox.tech/),
+[Spotify](https://engineering.atspotify.com/),
+[Facebook](https://engineering.fb.com/),
+[Google](https://developers.google.com/web/updates/),
+[Microsoft](https://devblogs.microsoft.com/),
+[Amazon](https://developer.amazon.com/blogs),
+[Twitter](https://blog.twitter.com/engineering/en_us.html)
 
 ## Websites
 
