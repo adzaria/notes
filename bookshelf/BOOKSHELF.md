@@ -40,6 +40,8 @@
 
 - [Hexagonal architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
 - [Hexagonal architecture in Golang](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3)
+- [Colored functions](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+- [Why threads are a bad idea](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf)
 - [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) *("deprecated" flow)*
 - [A complete guide to Flexbox by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
