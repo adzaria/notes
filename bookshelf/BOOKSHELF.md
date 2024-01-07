@@ -2,7 +2,7 @@
 
 # Bookshelf
 
-*Bellow is a collection of books, articles, websites and videos. This list is only depicting what I would blindly recommend.*
+*Bellow is a collection of books, articles, blogs, websites and videos. This list is only depicting what I would blindly recommend.*
 
 ## Books
 
