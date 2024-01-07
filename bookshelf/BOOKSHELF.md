@@ -40,6 +40,7 @@
 
 - [Hexagonal architecture by Alistair Cockburn](https://alistair.cockburn.us/hexagonal-architecture/)
 - [Hexagonal architecture in Golang](https://medium.com/@matiasvarela/hexagonal-architecture-in-go-cfd4e436faa3)
+- [Bulletproof Node.js](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
 - [Colored functions](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [12 Factor-App](https://12factor.net/)
 - [Why threads are a bad idea](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf)
