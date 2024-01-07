@@ -47,6 +47,7 @@
 - [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) *("deprecated" flow)*
 - [Semantic versioning](https://semver.org/)
+- [Open API Specifications](https://swagger.io/specification/)
 - [A complete guide to Flexbox by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Blogs
