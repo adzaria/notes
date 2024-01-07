@@ -45,6 +45,8 @@
 - [12 Factor-App](https://12factor.net/)
 - [Why threads are a bad idea](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf)
 - [No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+- [Underlying principles of Git](https://www.alibabacloud.com/blog/a-detailed-explanation-of-the-underlying-data-structures-and-principles-of-git_597391)
+- [Unpacking git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles)
 - [A successful Git branching model by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) *("deprecated" flow)*
 - [Semantic versioning](https://semver.org/)
 - [Open API Specifications](https://swagger.io/specification/)
