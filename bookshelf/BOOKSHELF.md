@@ -51,6 +51,7 @@
 - [Semantic versioning](https://semver.org/)
 - [Open API Specifications](https://swagger.io/specification/)
 - [A complete guide to Flexbox by Chris Coyier](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [The X Y problem](https://xyproblem.info/)
 
 ## Blogs
 
